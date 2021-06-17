@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
 
-##  [Welcome To Hello Alili](https://miaobingyi.com)
+##  [Welcome](https://miaobingyi.com)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 👨🏻‍💻  [微前端系列](https://alili.tech/tags/microfrontend/)
 - 👩🏻‍💻  [Taro系列](https://alili.tech/tags/taro/)
@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-****
+
+
 ## 微信公众号
 
 关注获取海量学习资料.
