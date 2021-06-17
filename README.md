@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
 
-##  [Welcome To Hello Alili](https://alili.tech)
+##  [Welcome To Hello Alili](https://miaobingyi.com)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 👨🏻‍💻  [微前端系列](https://alili.tech/tags/microfrontend/)
 - 👩🏻‍💻  [Taro系列](https://alili.tech/tags/taro/)
@@ -42,13 +42,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-<p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=miaobingyi&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaobingyi">
-</p>
 
 ****
 ## 微信公众号
