@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <strong><a href="https://miaobingyi.com">博客</a></strong> |
-  <strong><a href="https://www.zhihu.com/people/fantastics/posts">知乎</a></strong>
+  <strong><a href="https://www.zhihu.com/people/fantastics/posts">知乎</a></strong> |
   <strong><a href="https://miaobingyi.com/about/">About</a></strong>  
 </p>
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
