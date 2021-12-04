@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-删了所有的库。
+基于自己对互联网的现状的理解，删了所有的库。
 
 
 
