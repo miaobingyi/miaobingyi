@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2021年，基于自己对互联网的现状的理解，删了之前所有的库和提交记录。
+2021年，基于对互联网环境现状的理解，删了之前大部分Repo，少数库设为Private。
 
 
 
