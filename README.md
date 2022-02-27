@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-截止2022年，基于对互联网环境现状的理解，之前Repo被删或转设为Private。
+基于对目前互联网环境现状的理解，之前大部分Repo被删或转设为Private。
 
 
 
