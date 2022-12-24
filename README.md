@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-基于对目前互联网环境现状的理解，之前大部分Repo被删或转设为Private。
+基于对互联网环境现状的理解，删除了之前大部分的Repo或将其转设为Private状态。
 
 
 
